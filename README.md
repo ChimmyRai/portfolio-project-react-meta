@@ -1,2 +1,2 @@
 # portfolio-project-react-meta
-Sample project done with advance react concepts 
+Portfolio project done with advance react concepts taught by Meta team (Coursera)
